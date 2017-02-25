@@ -34,8 +34,9 @@ a:hover {
 
 .project {
 	display: block;
+	padding: 10px;
 	margin-left: 50px;
 	margin-top: 5px;
 	margin-bottom: 20px;
-	background-color: #c9cacc;
+	background-color: #eff0f2;
 }
