@@ -8,3 +8,7 @@ body {
 h1 {
 	font-size: 18px;
 }
+
+canvas {
+	vertical-align: top;
+}
