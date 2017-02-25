@@ -1,0 +1,28 @@
+body {
+	font-family: Arial, sans-serif;
+}
+h1 {
+	color: rgb(50);
+}
+
+h2 {
+	color: rgb(50);
+}
+
+p {
+	color: rgb(75);
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(36, 88, 247);
+}
+
+a:hover {
+	text-decoration: underline;
+}
