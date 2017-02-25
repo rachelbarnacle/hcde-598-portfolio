@@ -13,11 +13,6 @@ p {
 	color: rgb(75);
 }
 
-#container {
-	width: 960px;
-	margin: 0 auto;
-}
-
 a {
 	text-decoration: none;
 	color: rgb(36, 88, 247);
@@ -25,4 +20,13 @@ a {
 
 a:hover {
 	text-decoration: underline;
+}
+
+#container {
+	max-width: 850px;
+	margin: 0 auto;
+}
+
+.projects {
+	padding-left: 100px;
 }
