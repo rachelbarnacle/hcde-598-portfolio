@@ -2,4 +2,9 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0 auto;
 	margin-top: 15px;
+	font-color: #282828;
+}
+
+h1 {
+	font-size: 18px;
 }
