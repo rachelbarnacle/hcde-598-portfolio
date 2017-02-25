@@ -9,6 +9,10 @@ h2 {
 	color: rgb(50);
 }
 
+h3 {
+	font-size: 15px;
+}
+
 p {
 	color: rgb(75);
 }
@@ -27,6 +31,9 @@ a:hover {
 	margin: 0 auto;
 }
 
-.projects {
+.project {
 	padding-left: 100px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: rgb(235);
 }
