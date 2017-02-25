@@ -36,6 +36,7 @@ a:hover {
 	display: block;
 	padding-left: 50px;
 	margin-top: 5px;
-	margin-bottom: 10px;
-	background-color: rgb(230);
+	margin-bottom: 20px;
+	border: 1px solid black;
+	background-color: grey;
 }
