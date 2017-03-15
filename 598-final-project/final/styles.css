@@ -1,0 +1,36 @@
+body {
+		width: 800px;
+	  margin: 0 auto;
+	  background-color: #f5f5f5;
+	}
+	
+	p, h2 {
+		text-align: center;
+		font-family: sans-serif;
+		margin: 0px;
+	}
+	
+	a {
+		text-decoration: none;
+	}
+	
+	img {
+		display: block;
+		margin: 0 auto;
+	}
+	
+	table, td, tr	{
+		margin: 0px;
+	}
+	
+	.owl:hover	{
+		background-image: url("images/owl_color.png");
+	}
+	
+	.cupcake:hover	{
+		background-image: url("images/cupcake_color.png");
+	}
+	
+	.fish:hover	{
+		background-image: url("images/fish_color.png");
+	}
